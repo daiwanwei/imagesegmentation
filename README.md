@@ -25,7 +25,7 @@ $ pip install -r requirements.txt
 
 ```bash
 #到專案目錄下
-$ cd path_to_dir/image-segmentation
+$ cd path_to_dir/imagesegmentation
 
 # 訓練模型
 $ python train.py
@@ -42,7 +42,7 @@ $ python train.py
 ### 訓練模型
 ```bash
 #到專案目錄下
-$ cd path_to_dir/image-segmentation
+$ cd path_to_dir/imagesegmentation
 
 # 模型預測
 $ python predict.py
@@ -57,7 +57,7 @@ $ python predict.py
 ### 顯示預測結果
 ```bash
 #到專案目錄下
-$ cd path_to_dir/image-segmentation
+$ cd path_to_dir/imagesegmentation
 
 # 模型預測
 $ python visualization.py
