@@ -1,0 +1,5 @@
+/data/predict/mask
+/data/predict/visual
+/data/train/visual
+/venv/
+/.idea/

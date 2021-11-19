@@ -1,0 +1,9 @@
+tensorflow~=2.7.0
+numpy~=1.21.4
+keras~=2.7.0
+opencv-python~=4.5.4.58
+tqdm~=4.62.3
+imgaug~=0.4.0
+pandas
+Pillow~=8.4.0
+matplotlib~=3.5.0
